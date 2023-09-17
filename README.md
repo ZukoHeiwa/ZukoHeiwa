@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Discord I’m @KiriZudo</h1>
+<h1 align="center">Welcome to my GitHub I’m @KiriZudo</h1>
 <h3 align="center">👀 Software Development, Web Development and Game Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikirizudoi&label=Profile%20views&color=0e75b6&style=flat" alt="ikirizudoi" /> </p>
