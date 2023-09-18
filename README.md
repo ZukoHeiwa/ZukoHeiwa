@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to my GitHub I’m @ZukoHeiwa</h1>
 <h3 align="center">👀 Software Development, Web Development and Game Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikirizudoi&label=Profile%20views&color=0e75b6&style=flat" alt="ikirizudoi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zukoheiwa&label=Profile%20views&color=0e75b6&style=flat" alt="zukoheiwa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikirizudoi" alt="ikirizudoi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zukoheiwa" alt="zukoheiwa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zukoheiwa" target="blank"><img src="https://img.shields.io/twitter/follow/zukoheiwa?logo=twitter&style=for-the-badge" alt="zukoheiwa" /></a> </p>
 
