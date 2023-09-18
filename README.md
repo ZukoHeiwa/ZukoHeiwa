@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub I’m @KiriZudo</h1>
+<h1 align="center">Welcome to my GitHub I’m @ZukoHeiwa</h1>
 <h3 align="center">👀 Software Development, Web Development and Game Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikirizudoi&label=Profile%20views&color=0e75b6&style=flat" alt="ikirizudoi" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kirizudo" target="blank"><img src="https://img.shields.io/twitter/follow/kirizudo?logo=twitter&style=for-the-badge" alt="kirizudo" /></a> </p>
 
-- 📫 How to reach me **kirizudobusiness@gmail.com**
+- 📫 How to reach me **ZukoHeiwabusiness@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikirizudoi&show_icons=true&locale=en" alt="ikirizudoi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikirizudoi&" alt="ikirizudoi" /></p># IKiriZudoI
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikirizudoi&" alt="ikirizudoi" /></p># ZukoHeiwa
