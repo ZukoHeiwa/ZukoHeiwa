@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikirizudoi" alt="ikirizudoi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kirizudo" target="blank"><img src="https://img.shields.io/twitter/follow/kirizudo?logo=twitter&style=for-the-badge" alt="kirizudo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zukoheiwa" target="blank"><img src="https://img.shields.io/twitter/follow/zukoheiwa?logo=twitter&style=for-the-badge" alt="zukoheiwa" /></a> </p>
 
 - 📫 How to reach me **ZukoHeiwabusiness@gmail.com**
 
