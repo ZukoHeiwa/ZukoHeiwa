@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zukoheiwa" target="blank"><img src="https://img.shields.io/twitter/follow/zukoheiwa?logo=twitter&style=for-the-badge" alt="zukoheiwa" /></a> </p>
 
-- 📫 How to reach me **ZukoHeiwabusiness@gmail.com**
+- 📫 How to reach me **zukoheiwabusiness@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
