@@ -2,7 +2,9 @@
 <h3 align="center">👀 Software Development, Web Development and Game Development.</h3>
 
 <p align="center"> 
-    <a href="https://twitter.com/zukoheiwa" target="blank"><img src="https://img.shields.io/twitter/follow/zukoheiwa?logo=twitter&style=for-the-badge" alt="zukoheiwa" /></a>
+    <a href="https://twitter.com/zukoheiwa" target="blank">
+    <img src="https://img.shields.io/badge/@ZukoHeiwa-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
     <a href="https://www.youtube.com/channel/UCt3X0lR50_2yqdj9o3LUpKA" target="blank">
     <img src="https://img.shields.io/badge/@ZukoHeiwa-red?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
