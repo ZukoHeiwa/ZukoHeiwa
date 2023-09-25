@@ -24,4 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zukoheiwa&" alt="zukoheiwa" /></p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zukoheiwa&layout=compact&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=zukoheiwa&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zukoheiwa)
+
 <p># ZukoHeiwa</p>
