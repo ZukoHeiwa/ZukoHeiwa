@@ -24,15 +24,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zukoheiwa&" alt="zukoheiwa" /></p>
 
-<div style="background-color: #0366d6; color: white; border-radius: 8px; padding: 10px; margin: 10px;">
+<div class="border bg-gray-dark text-white rounded-2 px-3 py-2">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukoheiwa&layout=compact&show_icons=true&locale=en" alt="Top Languages" />
 </div>
 
-<div style="background-color: #0366d6; color: white; border-radius: 8px; padding: 10px; margin: 10px;">
+<div class="border bg-gray-dark text-white rounded-2 px-3 py-2">
   <img src="https://github-readme-stats.vercel.app/api/?username=zukoheiwa&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
-<div style="background-color: #0366d6; color: white; border-radius: 8px; padding: 10px; margin: 10px;">
+<div class="border bg-gray-dark text-white rounded-2 px-3 py-2">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zukoheiwa" alt="GitHub Streak" />
 </div>
 
