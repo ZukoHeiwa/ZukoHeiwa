@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub I’m @ZukoHeiwa</h1>
 <h3 align="center">👀 Software Development, Web Development and Game Development.</h3>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://twitter.com/zukoheiwa" target="blank"><img src="https://img.shields.io/twitter/follow/zukoheiwa?logo=twitter&style=for-the-badge" alt="zukoheiwa" /></a>
     <a href="https://www.youtube.com/channel/UCt3X0lR50_2yqdj9o3LUpKA" target="blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube" /></a>
 </p>
@@ -9,7 +9,7 @@
 - 📫 How to reach me **zukoheiwabusiness@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/zukoheiwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zukoheiwa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18835258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18835258" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ZukoHeiwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ikirizudoi" height="30" width="40" /></a>
