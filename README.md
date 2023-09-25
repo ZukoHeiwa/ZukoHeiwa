@@ -5,7 +5,7 @@
 
 <p align="left"> 
     <a href="https://twitter.com/zukoheiwa" target="blank"><img src="https://img.shields.io/twitter/follow/zukoheiwa?logo=twitter&style=for-the-badge" alt="zukoheiwa" /></a>
-    <a href="https://www.youtube.com/https://www.youtube.com/channel/UCt3X0lR50_2yqdj9o3LUpKA" target="blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube" /></a>
+    <a href="https://www.youtube.com/channel/UCt3X0lR50_2yqdj9o3LUpKA" target="blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube" /></a>
 </p>
 
 - 📫 How to reach me **zukoheiwabusiness@gmail.com**
