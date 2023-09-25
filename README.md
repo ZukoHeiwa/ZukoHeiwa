@@ -24,6 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zukoheiwa&" alt="zukoheiwa" /></p>
 
-![Code Review Percentage](https://img.shields.io/badge/Code%20Review-5%25-brightgreen)
-
 <p># ZukoHeiwa</p>
