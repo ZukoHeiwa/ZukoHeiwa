@@ -6,6 +6,9 @@
     <a href="https://www.youtube.com/channel/UCt3X0lR50_2yqdj9o3LUpKA" target="blank">
     <img src="https://img.shields.io/badge/@ZukoHeiwa-red?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
+    <a href="https://stackoverflow.com/users/18835258/zukoheiwa" target="blank">
+    <img src="https://img.shields.io/badge/@ZukoHeiwa-red?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow" />
+  </a>
 </p>
 
 - 📫 How to reach me **zukoheiwabusiness@gmail.com**
