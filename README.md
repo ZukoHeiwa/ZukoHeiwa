@@ -1,13 +1,12 @@
 <h1 align="center">Welcome to my GitHub I’m @ZukoHeiwa</h1>
 <h3 align="center">👀 Software Development, Web Development and Game Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zukoheiwa&label=Profile%20views&color=0e75b6&style=flat" alt="zukoheiwa" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zukoheiwa" alt="zukoheiwa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zukoheiwa" target="blank"><img src="https://img.shields.io/twitter/follow/zukoheiwa?logo=twitter&style=for-the-badge" alt="zukoheiwa" /></a> <a href="https://www.youtube.com/https://www.youtube.com/channel/UCt3X0lR50_2yqdj9o3LUpKA" target="blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCt3X0lR50_2yqdj9o3LUpKA?label=Subscribe&style=for-the-badge&logo=youtube" alt="zukoheiwa" />
-  </a> </p>
+<p align="left"> 
+    <a href="https://twitter.com/zukoheiwa" target="blank"><img src="https://img.shields.io/twitter/follow/zukoheiwa?logo=twitter&style=for-the-badge" alt="zukoheiwa" /></a>
+    <a href="https://www.youtube.com/https://www.youtube.com/channel/UCt3X0lR50_2yqdj9o3LUpKA" target="blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube" /></a>
+</p>
 
 - 📫 How to reach me **zukoheiwabusiness@gmail.com**
 
