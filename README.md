@@ -22,6 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zukoheiwa&show_icons=true&locale=en" alt="zukoheiwa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zukoheiwa&" alt="zukoheiwa" /></p>
-
 <p># ZukoHeiwa</p>
