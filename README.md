@@ -3,7 +3,7 @@
 
 <p align="center"> 
     <a href="https://twitter.com/ZukoHeiwa" target="blank">
-        <img src="https://img.shields.io/badge/@ZukoHeiwa-lightblue?style=for-the-badge&logo=twitter" alt="Twitter" />
+        <img src="https://img.shields.io/badge/@ZukoHeiwa-lightblue?style=for-the-badge&logo=x" alt="X" />
   </a>
     <a href="https://www.instagram.com/zukoheiwa/" target="blank">
         <img src="https://img.shields.io/badge/@ZukoHeiwa-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
