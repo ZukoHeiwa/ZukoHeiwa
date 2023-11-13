@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/@ZukoHeiwa-black?style=for-the-badge&logo=tiktok" alt="TikTok" />
     </a>
     <a href="https://discord.com/channels/@me/1042415306292854884" target="blank">
-        <img src="https://img.shields.io/badge/@ZukoHeiwa-darkgray?style=for-the-badge&logo=discord" alt="Discord" />
+        <img src="https://img.shields.io/badge/@ZukoHeiwa-gray?style=for-the-badge&logo=discord" alt="Discord" />
     </a>
 </p>
 
