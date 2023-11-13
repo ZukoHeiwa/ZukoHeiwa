@@ -11,7 +11,7 @@
     <a href="https://www.facebook.com/profile.php?id=61552817983971" target="blank">
         <img src="https://img.shields.io/badge/@ZukoHeiwa-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
     </a>
-    <a href="https://www.facebook.com/profile.php?id=61552817983971" target="blank">
+    <a href="https://www.tiktok.com/@zukoheiwa" target="blank">
         <img src="https://img.shields.io/badge/@ZukoHeiwa-black?style=for-the-badge&logo=tiktok" alt="TikTok" />
     </a>
     <a href="https://discord.com/channels/@me/1042415306292854884" target="blank">
