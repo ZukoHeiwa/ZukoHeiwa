@@ -2,13 +2,21 @@
 <h3 align="center">👀 Software Development, Web Development and Game Development.</h3>
 
 <p align="center"> 
-    <a href="https://www.youtube.com/channel/UCt3X0lR50_2yqdj9o3LUpKA" target="blank">
+    <a href="https://twitter.com/ZukoHeiwa" target="blank">
         <img src="https://img.shields.io/badge/@ZukoHeiwa-lightblue?style=for-the-badge&logo=twitter" alt="Twitter" />
-        <img src="https://img.shields.io/badge/@ZukoHeiwa-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
-        <img src="https://img.shields.io/badge/@ZukoHeiwa-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
-        <img src="https://img.shields.io/badge/@ZukoHeiwa-black?style=for-the-badge&logo=tiktok" alt="TikTok" />
-        <img src="https://img.shields.io/badge/@ZukoHeiwa-darkblue?style=for-the-badge&logo=discord" alt="Discord" />
   </a>
+    <a href="https://www.instagram.com/zukoheiwa/" target="blank">
+        <img src="https://img.shields.io/badge/@ZukoHeiwa-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61552817983971" target="blank">
+        <img src="https://img.shields.io/badge/@ZukoHeiwa-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61552817983971" target="blank">
+        <img src="https://img.shields.io/badge/@ZukoHeiwa-black?style=for-the-badge&logo=tiktok" alt="TikTok" />
+    </a>
+    <a href="https://discord.com/channels/@me/1042415306292854884" target="blank">
+        <img src="https://img.shields.io/badge/@ZukoHeiwa-darkgray?style=for-the-badge&logo=discord" alt="Discord" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
