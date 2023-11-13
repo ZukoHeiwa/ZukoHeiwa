@@ -7,6 +7,7 @@
         <img src="https://img.shields.io/badge/@ZukoHeiwa-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
         <img src="https://img.shields.io/badge/@ZukoHeiwa-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
         <img src="https://img.shields.io/badge/@ZukoHeiwa-black?style=for-the-badge&logo=tiktok" alt="TikTok" />
+        <img src="https://img.shields.io/badge/@ZukoHeiwa-darkblue?style=for-the-badge&logo=discord" alt="Discord" />
   </a>
 </p>
 
